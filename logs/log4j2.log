@@ -1,0 +1,179 @@
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:45:49 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 10:46:36 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:46:36 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 10:51:40 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:51:40 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 10:54:21 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:54:21 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 10:56:53 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:56:53 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 10:57:43 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 10:57:43 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-25 11:42:07 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-25 11:42:07 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-26 19:54:49 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-26 19:54:49 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-26 19:56:25 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-26 19:56:25 DEBUG c.e.j.t.l.Logic [main] Six task
+2021-08-26 19:56:59 INFO c.e.j.t.m.Main [main] Parser starts
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion String to Sentences started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.c.Parser [main] Conversion Sentences to Word started
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] First task
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] Second task
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] Forth task
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] Third task
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] Fives task
+2021-08-26 19:56:59 DEBUG c.e.j.t.l.Logic [main] Six task
